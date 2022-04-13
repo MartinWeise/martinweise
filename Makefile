@@ -5,5 +5,9 @@ all:
 build:
 	mkdocs build
 
-deploy:
-	sudo cp -r ./site/* /usr/share/nginx/html/
+install:
+	cp -r ./site/* ../martinweise.github.io/
+	cd ../martinweise.github.io/
+	git add .
+	git commit -S -m "new release"
+	git push -u origin master
