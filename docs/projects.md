@@ -7,7 +7,9 @@ hide:
 
 # Projects
 
-## [EOSC Life](https://www.eosc-life.eu/)
+## Current Projects
+
+### [EOSC Life](https://www.eosc-life.eu/)
 
 (<del>2019</del>, 2021-2023)
 
@@ -16,7 +18,7 @@ collaborative space for biological and medical research. The project will publis
 provided by participating RIs for the management, storage and reuse of data in the European Open Science Cloud (EOSC).
 This space will be accessible to European research communities.
 
-## [FAIR Data Austria](https://forschungsdaten.at/fda/)
+### [FAIR Data Austria](https://forschungsdaten.at/fda/)
 
 (2020-2022)
 
@@ -31,7 +33,9 @@ well as RIS Synergy projects. Supporting the entire data lifecycle (from data ge
 with the appropriate tools and expertise is essential to achieve efficient research data management according to the
 FAIR principles, a process that can only be successful when supported by all Austrian HEIs.
 
-## [EOSC Secretariat](https://www.eoscsecretariat.eu/)
+## Past Projects
+
+### [EOSC Secretariat](https://www.eoscsecretariat.eu/)
 
 (2019-2021)
 

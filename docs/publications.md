@@ -7,7 +7,7 @@ hide:
 
 # Publications
 
-## Peer-reviewed
+## Refereed
 
 ##### 2022
 

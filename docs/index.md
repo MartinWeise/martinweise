@@ -2,19 +2,19 @@
 hide:
 
 - navigation
-- toc
 
 ---
-
+![Martin Weise](/images/mweise.webp){ width=260 align=right }
 # Projektass. Dipl.-Ing. Martin Weise
 
-PreDoc Student at [Information and Software Engineering Group](https://informatics.tuwien.ac.at/orgs/e194-01)
-E194-01<br />
-Favoritenstraße 9-11<br />
-A-1040 Vienna, Austria
+Martin is a PreDoc researcher at the Information and Software Engineering Group (IFS) at the department of Information
+Systems Engineering at the Vienna University of Technology (TU Wien). He received his MSc in *Software Engineering &
+Internet Computing* from TU Wien in 2022 and BSc in *Software & Information Engineering* from TU Wien in 2019.
 
-Office: [HG 01 01](https://tuw-maps.tuwien.ac.at/?q=HG0101)<br />
-Mail: [martin.weise@tuwien.ac.at](mailto:martin.weise@tuwien.ac.at)
+He has published an article in a refereed journal and papers at international conferences.
+
+His research interests cover a broad spectrum of secure data infrastructures, virtual research environments, FAIR data
+and digital repositories.
 
 ## Publication Highlights
 

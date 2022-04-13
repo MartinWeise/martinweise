@@ -3,15 +3,6 @@ site_author: Martin Weise
 copyright: CC BY 4.0 Martin Weise
 extra:
   homepage: https://martinweise.at
-  social:
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/martin-weise-094273218/
-    - icon: fontawesome/regular/id-card
-      link: https://isni.org/isni/0000000506791090
-    - icon: fontawesome/brands/google
-      link: https://scholar.google.com/citations?user=uMn2MpgAAAAJ
-    - icon: fontawesome/brands/orcid
-      link: https://orcid.org/0000-0003-4216-302X
 nav:
   - Home: 'index.md'
   - publications.md
@@ -35,15 +26,13 @@ theme:
   palette:
     - scheme: default
       primary: blue grey
-      secondary: red
       font:
         code: Roboto Mono
       toggle:
         icon: material/weather-night
         name: Switch to light mode
     - scheme: slate
-      primary: black
-      secondary: red
+      primary: indigo
       font:
         code: Roboto Mono
       toggle:
