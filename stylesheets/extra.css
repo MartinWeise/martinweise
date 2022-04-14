@@ -1,0 +1,7 @@
+[data-md-component="logo"] {
+    display: none !important;
+}
+
+.md-header__title {
+    margin-left: 0.5rem !important;
+}
