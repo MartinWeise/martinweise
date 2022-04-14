@@ -4,7 +4,7 @@ hide:
 - navigation
 
 ---
-![Martin Weise](/images/mweise.webp){ width=260 align=right }
+
 # Projektass. Dipl.-Ing. Martin Weise
 
 Martin is a PreDoc researcher at the Information and Software Engineering Group (IFS) at the department of Information

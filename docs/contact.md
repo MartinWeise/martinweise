@@ -7,6 +7,8 @@ hide:
 
 # Contact
 
+![Projektass. Dipl.-Ing. Martin Weise](/images/mweise.webp){ width="300" }
+
 Projektass. Dipl.-Ing. Martin Weise<br />
 Technische Universität Wien<br />
 [Information and Software Engineering Group](https://informatics.tuwien.ac.at/orgs/e194-01)<br />
