@@ -3,6 +3,11 @@ site_author: Martin Weise
 copyright: CC BY 4.0 Martin Weise
 extra:
   homepage: https://martinweise.at
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/martin-weise-094273218/
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0003-4216-302X
 nav:
   - Home: 'index.md'
   - publications.md
@@ -25,7 +30,7 @@ theme:
     repo: fontawesome/brands/git-alt
   palette:
     - scheme: default
-      primary: blue grey
+      primary: indigo
       font:
         code: Roboto Mono
       toggle:

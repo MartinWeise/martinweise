@@ -1,0 +1,12 @@
+[data-md-component="logo"] {
+    display: none !important;
+}
+
+.md-header__title {
+    margin-left: 0.5rem !important;
+}
+
+[data-md-color-scheme="default"] .md-header,
+[data-md-color-scheme="default"] .md-tabs {
+    background: #546d78;
+}
