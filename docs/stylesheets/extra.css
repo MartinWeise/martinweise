@@ -10,3 +10,8 @@
 [data-md-color-scheme="default"] .md-tabs {
     background: #546d78;
 }
+
+[data-md-color-scheme="slate"] .md-header,
+[data-md-color-scheme="slate"] .md-tabs {
+    background-color: hsla(var(--md-hue),15%,12%,1.00);
+}
