@@ -10,7 +10,7 @@ hide:
 ![Projektass. Dipl.-Ing. Martin Weise](/images/mweise.webp){ width="300" }
 
 Projektass. Dipl.-Ing. Martin Weise<br />
-Technische Universität Wien<br />
+[Technische Universität Wien](https://ror.org/04d836q62)<br />
 [Information and Software Engineering Group](https://informatics.tuwien.ac.at/orgs/e194-01)<br />
 Favoritenstraße 9-11<br />
 A-1040 Vienna, Austria

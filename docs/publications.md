@@ -31,11 +31,17 @@ hide:
    [10.17605/OSF.IO/VKN4R](https://doi.org/10.17605/OSF.IO/VKN4R) :wikimedia-open-access:
    :fontawesome-solid-crown:{ .crown title="Best Newcomer iPRES 2021 awarded by the Digital Preservation Coalition" }
 
-## Preprint
+## Manuscripts
+
+##### 2022
+
+1. Weise, M., Staudinger, M., Michlits, C., Gergely, E., Stytsenko, K., Ganugly, R., and A. Rauber, 2022. DBRepo: A
+   Semantic Digital Repository for Relational Databases, in *Zenodo Preprint*.
+   DOI: [10.5281/zenodo.6637333](https://doi.org/10.5281/zenodo.6637333) :wikimedia-open-access:
 
 ##### 2021
 
-1. Rauber, A., Weise, M., Landman, M., Staudinger M. and Michlits, C.,2021. Open Source Secure Data Infrastructure and
+1. Rauber, A., Weise, M., Landman, M., Staudinger M. and Michlits, C., 2021. Open Source Secure Data Infrastructure and
    Processes for Life Sciences, [Presentation] in *Zenodo Preprint*.
    DOI: [10.5281/zenodo.5534008](https://doi.org/10.5281/zenodo.5534008) :wikimedia-open-access:
 2. Weise, M., 2021. QR-Code Optical Covert Channel Benchmark, [Dataset] in *Zenodo*.
