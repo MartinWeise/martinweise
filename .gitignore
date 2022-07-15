@@ -2,6 +2,7 @@
 .idea/
 
 # Generated
+.DS_Store
 assets/
 contact/
 projects/

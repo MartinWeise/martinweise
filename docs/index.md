@@ -16,6 +16,8 @@ He has published an article in a refereed journal and papers at international co
 His research interests cover a broad spectrum of secure data infrastructures, virtual research environments, FAIR data
 and digital repositories.
 
+He currently leads an open reading group dealing with [trusted research environments and FAIR sensitive data](/reading-group) that meets every first Tuesday of the month 15:00 c.t. at his [office](/contact).
+
 ## Publication Highlights
 
 1. Weise, M., Kovacevic, F., Popper, N. and Rauber, A., 2022. OSSDIP: Open Source Secure Data Infrastructure and

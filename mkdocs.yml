@@ -13,6 +13,7 @@ nav:
   - publications.md
   - projects.md
   - teaching.md
+  - reading-group.md
   - contact.md
 extra_css:
   - stylesheets/extra.css
