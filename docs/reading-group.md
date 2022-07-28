@@ -26,7 +26,10 @@ votes gets selected.
 
 ### Meetings
 
-- 02.08.2022
+##### 2022-08-02
+
+* Wilkinson, M., Sansone, S-A., Schultes, E., Doorn, P. et al, 2018. A Design Framework and Exemplar Metrics for FAIRness. *Scientific Data*, 5(180118). DOI: [10.1038/sdata.2018.118](https://doi.org/10.1038/sdata.2018.118)<br />
+  \[0 votes — 100%\]
 
 ### Paper Collection
 
