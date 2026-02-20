@@ -1,0 +1,63 @@
+site_name: Martin Weise
+site_author: Martin Weise
+copyright: CC BY 4.0 Martin Weise
+extra:
+  homepage: https://ec.tuwien.ac.at/~weise/
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/martin-weise-094273218/
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0003-4216-302X
+nav:
+  - Home: 'index.md'
+  - publications.md
+  - projects.md
+  - teaching.md
+  - talks.md
+  - activities.md
+  - contact.md
+extra_css:
+  - stylesheets/extra.css
+theme:
+  favicon: images/DS-icon_white_hiRes.png
+  logo: images/DS-icon_white_hiRes.png
+  language: en
+  font:
+    text: Playwrite Cuba Guides
+    code: IBM Plex Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - content.code.annotate
+  icon:
+    repo: fontawesome/brands/git-alt
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      font:
+        code: Roboto Mono
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      font:
+        code: Roboto Mono
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  name: material
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
